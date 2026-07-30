@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Uilim Cameras Sayansk Only
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Скрипт для обхода ограничений на камеры ИТК в г.Саянск. Для работы скрипта с другими городами нужно сменить cc-stream-02 на cc-stream-01 и т.д. Смену городов лень делать)
 // @icon         https://uilim.ru/wp-content/themes/dakalipa/images/mobile-app.png
 // @author       MaZa128
