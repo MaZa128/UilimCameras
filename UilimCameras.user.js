@@ -5,6 +5,9 @@
 // @description  Скрипт для обхода ограничений на камеры ИТК в г.Саянск. Для работы скрипта с другими городами нужно сменить cc-stream-02 на cc-stream-01 и т.д. Смену городов лень делать)
 // @icon         https://uilim.ru/wp-content/themes/dakalipa/images/mobile-app.png
 // @author       MaZa128
+// @homepageURL  https://github.com/MaZa128/UilimCameras
+// @downloadURL  https://raw.githubusercontent.com/MaZa128/UilimCameras/main/UilimCameras.user.js
+// @updateURL    https://raw.githubusercontent.com/MaZa128/UilimCameras/main/UilimCameras.user.js
 // @match        https://cc.uilim.ru/*
 // @grant        none
 // @run-at       document-idle
